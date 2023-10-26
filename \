@@ -1,0 +1,10 @@
+module Main (main) where
+
+import Lib
+
+import Data.List
+import System.IO
+
+main :: IO ()
+main = putStrLn "uwu"
+
